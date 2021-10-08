@@ -404,7 +404,7 @@ ol li {
     margin: 1%;
     min-height: 500px;
     box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.445),
-        -5px -5px 10px rgba(255, 255, 255, 0.445);
+             -5px -5px 10px rgba(255, 255, 255, 0.445);
     transform: scale(1);
     transition: all .8s;
     position: relative;
@@ -423,8 +423,8 @@ ol li {
 
 .project:hover {
     transform: scale(1.1);
-    box-shadow: 5px 5px 50px rgba(255, 255, 255, 0.445),
-        -5px -5px 50px rgba(255, 255, 255, 0.445);
+    box-shadow: 3px 3px 50px rgba(255, 255, 255, 0.445),
+                -3px -3px 50px rgba(255, 255, 255, 0.445);
 }
 
 .project p {
